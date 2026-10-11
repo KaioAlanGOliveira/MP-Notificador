@@ -1,4 +1,4 @@
-# MJA2 — WP-Notificador
+# MJA2 — MP-Notificador
 
 ## Sobre o projeto
 
